@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-application",
+  "version": "1.0.0",
+  "description": "A simple nodejs application exploring http module, router and request handler concepts",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-shuvodip/NodeJs-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "http",
+    "url",
+    "router",
+    "querystring"
+  ],
+  "author": "Shuvodip Ray <chrispbacon961@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-shuvodip/NodeJs-app/issues"
+  },
+  "homepage": "https://github.com/dev-shuvodip/NodeJs-app#readme"
+}
